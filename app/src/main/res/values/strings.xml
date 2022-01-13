@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RemoteLinq</string>
+    <string name="backend_url">https://backend_url.com</string>
+    <string name="file_key">com.example.remotelinq.PREFERENCE_FILE_KEY</string>
+</resources>
